@@ -1,3 +1,5 @@
+//Gabriel Afonso dos Santos - CB3026167
+
 import java.util.Scanner;
 
 public class Hora {
